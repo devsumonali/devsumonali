@@ -35,30 +35,30 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/md-sumon-ali-akondo/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
-    </a>
+<p align="left">
 
+  <a href="https://www.linkedin.com/in/md-sumon-ali-akondo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42" />
+  </a>
 
   <a href="https://github.com/devsumonali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42" />
   </a>
 
   <a href="https://devsumon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=html" alt="Portfolio" height="42" />
   </a>
 
   <a href="mailto:sumonsum33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="42" />
   </a>
 
   <a href="https://dribbble.com/l_sumon" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" alt="Dribbble" height="42" />
   </a>
 
   <a href="https://www.pinterest.com/l_sumon/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+    <img src="https://cdn.simpleicons.org/pinterest/BD081C" alt="Pinterest" height="42" />
   </a>
 
 </p>
@@ -86,14 +86,14 @@
 
 **WordPress Ecosystem:**  
 <p align="left">
-  <img src="./icons/wordpress.svg" height="45" alt="WordPress" />
-  <img src="./icons/woocommerce.svg" height="45" alt="WooCommerce" />
-  <img src="./icons/elementor.svg" height="45" alt="Elementor" />
-  <img src="./icons/crocoblock.svg" height="45" alt="Crocoblock" />
-  <img src="./icons/jetengine.svg" height="45" alt="JetEngine" />
-  <img src="./icons/jetformbuilder.svg" height="45" alt="JetFormBuilder" />
-  <img src="./icons/acf.svg" height="45" alt="ACF" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
+   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" />
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" height="48" />
+  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
+  <img src="https://img.shields.io/badge/Crocoblock-7A3FF2?style=for-the-badge" alt="Crocoblock" height="28" />
+  <img src="https://img.shields.io/badge/JetEngine-0F9D58?style=for-the-badge" alt="JetEngine" height="28" />
+  <img src="https://img.shields.io/badge/JetFormBuilder-2563EB?style=for-the-badge" alt="JetFormBuilder" height="28" />
+  <img src="https://img.shields.io/badge/ACF-1F2937?style=for-the-badge" alt="ACF" height="28" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" />
 </p>
 
 ### Deployment Platform:
