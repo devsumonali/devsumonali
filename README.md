@@ -8,8 +8,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md Sumon Ali</h1></summary>
 
-    <!--- typo --->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1200&color=2B90FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;WordPress+Developer+%7C+3%2B+Years+Experience)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=2B90FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;WordPress+Developer+%7C+3%2B+Years+Experience"
+    alt="Typing SVG"
+  />
+</a>
   </ul>
 </div>
 
