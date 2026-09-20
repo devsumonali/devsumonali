@@ -85,15 +85,26 @@
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://github.com/devsumonali)
 
 **WordPress Ecosystem:**  
+### WordPress Ecosystem:
+
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" />
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" height="48" />
-  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" height="48" />
-  <img src="https://img.shields.io/badge/Crocoblock-7A3FF2?style=for-the-badge" alt="Crocoblock" height="28" />
-  <img src="https://img.shields.io/badge/JetEngine-0F9D58?style=for-the-badge" alt="JetEngine" height="28" />
-  <img src="https://img.shields.io/badge/JetFormBuilder-2563EB?style=for-the-badge" alt="JetFormBuilder" height="28" />
-  <img src="https://img.shields.io/badge/ACF-1F2937?style=for-the-badge" alt="ACF" height="28" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" />
+
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" width="48" />
+
+  <img src="./icons/woocommerce.png" alt="WooCommerce" height="48" width="48" />
+
+  <img src="./icons/elementor.png" alt="Elementor" height="48" width="48" />
+
+  <img src="./icons/crocoblock.png" alt="Crocoblock" height="48" width="48" />
+
+  <img src="./icons/jetengine.png" alt="JetEngine" height="48" width="48" />
+
+  <img src="./icons/jetformbuilder.png" alt="JetFormBuilder" height="48" width="48" />
+
+  <img src="./icons/acf.png" alt="ACF" height="48" width="48" />
+
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" width="48" />
+
 </p>
 
 ### Deployment Platform:
