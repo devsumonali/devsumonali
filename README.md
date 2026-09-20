@@ -187,6 +187,7 @@ A modern landing page focused on responsiveness and conversion.
     srcset="https://raw.githubusercontent.com/devsumonali/devsumonali/output/github-snake.svg"
   />
   <img
+    width="100%"
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/devsumonali/devsumonali/output/github-snake.svg"
   />
@@ -194,37 +195,61 @@ A modern landing page focused on responsiveness and conversion.
 
 <br/>
 
-### GitHub Statistics:
+### GitHub Profile Details:
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=devsumonali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Md Sumon Ali GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsumonali&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Md Sumon Ali Top Languages"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsumonali&theme=github_dark"
+    alt="Md Sumon Ali GitHub Profile Details"
   />
 </p>
 
 <br/>
 
-### Repository Stats & Streak:
+### GitHub Statistics:
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-contributor-stats.vercel.app/api?username=devsumonali&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true"
-    alt="GitHub Contributor Stats"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsumonali&theme=github_dark"
+    alt="Md Sumon Ali GitHub Statistics"
   />
+</p>
 
+<br/>
+
+### Most Used Languages:
+
+<p align="center">
   <img
-    width="48%"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsumonali&theme=github_dark"
+    alt="Md Sumon Ali Most Used Languages"
+  />
+</p>
+
+<br/>
+
+### Productive Time:
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsumonali&theme=github_dark&utcOffset=6"
+    alt="Md Sumon Ali Productive Time"
+  />
+</p>
+
+<br/>
+
+### GitHub Streak:
+
+<p align="center">
+  <img
+    width="100%"
     src="https://streak-stats.demolab.com?user=devsumonali&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
+    alt="Md Sumon Ali GitHub Streak"
   />
 </p>
 
@@ -235,7 +260,8 @@ A modern landing page focused on responsiveness and conversion.
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+    width="100%"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     alt="Random Dev Quote"
   />
 </p>
