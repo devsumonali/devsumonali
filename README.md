@@ -207,17 +207,7 @@ A modern landing page focused on responsiveness and conversion.
 
 <br/>
 
-### GitHub Statistics:
 
-<p align="center">
-  <img
-    width="500"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsumonali&theme=github_dark"
-    alt="Md Sumon Ali GitHub Statistics"
-  />
-</p>
-
-<br/>
 
 ### Most Used Languages:
 
@@ -226,6 +216,19 @@ A modern landing page focused on responsiveness and conversion.
     width="500"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsumonali&theme=github_dark"
     alt="Md Sumon Ali Most Used Languages"
+  />
+</p>
+
+<br/>
+
+
+### GitHub Streak:
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://streak-stats.demolab.com?user=devsumonali&theme=github-dark-blue&hide_border=true"
+    alt="Md Sumon Ali GitHub Streak"
   />
 </p>
 
