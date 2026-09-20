@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Md Sumon Ali GitHub Banner">
+<img src="./banner/banner.png" alt="Md Sumon Ali GitHub Banner">
 
 <br/>
 
@@ -9,12 +9,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md Sumon Ali</h1></summary>
 
     <!--- typo --->
-    <a href="https://git.io/typing-svg">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Web+Developer;React+%26+Next.js+Developer;Node.js+%26+Express.js+Developer;WordPress+Developer+with+3%2B+Years+Experience"
-        alt="Typing SVG"
-      />
-    </a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1200&color=2B90FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;WordPress+Developer+%7C+3%2B+Years+Experience)](https://git.io/typing-svg)
   </ul>
 </div>
 
