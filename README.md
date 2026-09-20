@@ -82,29 +82,25 @@
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/devsumonali)
 
 ### WordPress & CMS:
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://github.com/devsumonali)
 
-**WordPress Ecosystem:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
+</p>
+
 ### WordPress Ecosystem:
 
 <p align="left">
-
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
-
-  <img src="./icons/woocommerce.png" alt="WooCommerce" width="48" height="48" />
-
-  <img src="./icons/elementor.png" alt="Elementor" width="48" height="48" />
-
-  <img src="./icons/crocoblock.png" alt="Crocoblock" width="48" height="48" />
-
-  <img src="./icons/jetengine.png" alt="JetEngine" width="48" height="48" />
-
-  <img src="./icons/jetformbuilder.png" alt="JetFormBuilder" width="48" height="48" />
-
-  <img src="./icons/acf.png" alt="ACF" width="48" height="48" />
-
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" alt="WooCommerce" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+</p>
 
+<p>
+  <strong>Crocoblock</strong> •
+  <strong>JetEngine</strong> •
+  <strong>JetFormBuilder</strong> •
+  <strong>ACF</strong>
 </p>
 
 ### Deployment Platform:
