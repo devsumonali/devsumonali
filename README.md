@@ -89,21 +89,21 @@
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
 
-  <img src="./icons/woocommerce.png" alt="WooCommerce" height="48" width="48" />
+  <img src="./icons/woocommerce.png" alt="WooCommerce" width="48" height="48" />
 
-  <img src="./icons/elementor.png" alt="Elementor" height="48" width="48" />
+  <img src="./icons/elementor.png" alt="Elementor" width="48" height="48" />
 
-  <img src="./icons/crocoblock.png" alt="Crocoblock" height="48" width="48" />
+  <img src="./icons/crocoblock.png" alt="Crocoblock" width="48" height="48" />
 
-  <img src="./icons/jetengine.png" alt="JetEngine" height="48" width="48" />
+  <img src="./icons/jetengine.png" alt="JetEngine" width="48" height="48" />
 
-  <img src="./icons/jetformbuilder.png" alt="JetFormBuilder" height="48" width="48" />
+  <img src="./icons/jetformbuilder.png" alt="JetFormBuilder" width="48" height="48" />
 
-  <img src="./icons/acf.png" alt="ACF" height="48" width="48" />
+  <img src="./icons/acf.png" alt="ACF" width="48" height="48" />
 
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
 
 </p>
 
