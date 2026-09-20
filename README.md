@@ -143,6 +143,7 @@ I have **3+ years of professional experience** working with WordPress and buildi
 A modern web application built with React, TypeScript and Tailwind CSS.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS
+
 🌐 https://dev-stack-project-iota.vercel.app/
 
 ---
