@@ -176,24 +176,71 @@ A modern landing page focused on responsiveness and conversion.
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/devsumonali/contribution-snake/blob/output/grid.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/devsumonali/devsumonali/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/devsumonali/devsumonali/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/devsumonali/devsumonali/output/github-snake.svg"
+  />
+</picture>
+
+<br/>
 
 ### GitHub Statistics:
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=devsumonali&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsumonali&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=devsumonali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Md Sumon Ali GitHub Stats"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsumonali&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Md Sumon Ali Top Languages"
+  />
+</p>
+
+<br/>
 
 ### Repository Stats & Streak:
 
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=devsumonali&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=devsumonali" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-contributor-stats.vercel.app/api?username=devsumonali&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true"
+    alt="GitHub Contributor Stats"
+  />
+
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=devsumonali&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 <br/>
 
 <!--- random quote --->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+    alt="Random Dev Quote"
+  />
+</p>
+
+<br/>
 
 ---
 
