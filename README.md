@@ -209,19 +209,6 @@ A modern landing page focused on responsiveness and conversion.
 
 
 
-### Most Used Languages:
-
-<p align="center">
-  <img
-    width="500"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsumonali&theme=github_dark"
-    alt="Md Sumon Ali Most Used Languages"
-  />
-</p>
-
-<br/>
-
-
 ### GitHub Streak:
 
 <p align="center">
