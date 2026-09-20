@@ -26,8 +26,7 @@
 - ⚙️ I build **Full-Stack Applications, Business Websites, eCommerce Stores, Booking Systems, LMS Platforms and Custom Web Solutions**.
 - 🚀 I focus on **fast, scalable, responsive and user-friendly web applications**.
 - 💬 Ask me about **Full-Stack Development, React, Next.js, Node.js, Express.js, MongoDB and WordPress**.
-- 🌐 Explore my portfolio: **[Sumonify](https://sumonify.com/)**
-- 🏢 Agency: **[Kleevix](https://kleevix.com/)**
+- 🌐 Explore my portfolio: **[devsumon](https://devsumon.com/)**
 - 📫 Feel free to reach me by **Email**
   
 <br/>
@@ -37,22 +36,32 @@
 
 <div>
   <p align="left">
-    <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <a href="https://www.linkedin.com/in/md-sumon-ali-akondo/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
 
-    <a href="https://github.com/devsumonali" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
-    </a>
 
-    <a href="https://sumonify.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="30" />
-    </a>
+  <a href="https://github.com/devsumonali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-    <a href="mailto:YOUR_EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
-    </a>
-  </p>
+  <a href="https://devsumon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="mailto:sumonsum33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://dribbble.com/l_sumon" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+
+  <a href="https://www.pinterest.com/l_sumon/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
+
+</p>
 </div>
 
 <br/>
@@ -76,7 +85,16 @@
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://github.com/devsumonali)
 
 **WordPress Ecosystem:**  
-`WordPress` `WooCommerce` `Elementor` `Crocoblock` `JetEngine` `JetFormBuilder` `ACF` `Custom PHP`
+<p align="left">
+  <img src="./icons/wordpress.svg" height="45" alt="WordPress" />
+  <img src="./icons/woocommerce.svg" height="45" alt="WooCommerce" />
+  <img src="./icons/elementor.svg" height="45" alt="Elementor" />
+  <img src="./icons/crocoblock.svg" height="45" alt="Crocoblock" />
+  <img src="./icons/jetengine.svg" height="45" alt="JetEngine" />
+  <img src="./icons/jetformbuilder.svg" height="45" alt="JetFormBuilder" />
+  <img src="./icons/acf.svg" height="45" alt="ACF" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
+</p>
 
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/devsumonali)
@@ -100,23 +118,14 @@ I have **3+ years of professional experience** working with WordPress and buildi
 - Elementor & Elementor Pro
 - WooCommerce Development
 - Crocoblock
-- JetEngine
-- JetFormBuilder
-- JetWooBuilder
-- Advanced Custom Fields
 - Custom Post Types
 - Dynamic Content
 - Custom PHP Functionality
-- Booking & Appointment Systems
-- LMS Development
 - Payment Gateway Integration
-- Custom Checkout Features
 - Website Speed Optimization
-- Technical SEO
 - Schema Markup
 - GA4 & Google Tag Manager
 - Server-Side Tracking
-- Responsive & Pixel-Perfect Development
 
 <br/>
 
