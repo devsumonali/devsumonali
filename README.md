@@ -231,28 +231,7 @@ A modern landing page focused on responsiveness and conversion.
 
 <br/>
 
-### Productive Time:
 
-<p align="center">
-  <img
-    width="500"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsumonali&theme=github_dark&utcOffset=6"
-    alt="Md Sumon Ali Productive Time"
-  />
-</p>
-<br>
-
-### GitHub Streak:
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com?user=devsumonali&theme=github-dark-blue&hide_border=true"
-    alt="Md Sumon Ali GitHub Streak"
-  />
-</p>
-
-<br/>
 
 <!--- random quote --->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
