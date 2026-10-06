@@ -27,7 +27,9 @@
 - 🚀 I focus on **fast, scalable, responsive and user-friendly web applications**.
 - 💬 Ask me about **Full-Stack Development, React, Next.js, Node.js, Express.js, MongoDB and WordPress**.
 - 🌐 Explore my portfolio: **[devsumon](https://devsumon.com/)**
-- 📫 Feel free to reach me by **Email**
+- 📫 Feel free to reach me by Email: sumonsum33@gmail.com
+- 📞 Contact number: 01705806179 (Whats APP), 01516538416 (Call)
+- 
   
 <br/>
 
