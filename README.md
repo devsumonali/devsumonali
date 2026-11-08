@@ -147,6 +147,8 @@ A modern web application built with React, TypeScript and Tailwind CSS.
 **Tech Stack:** React, TypeScript, Tailwind CSS
 
 🌐 https://dev-stack-project-iota.vercel.app/
+🌐 https://cat-harry-clients.vercel.app/
+🌐 https://bazar-dor-nine-indol.vercel.app/
 
 ---
 
